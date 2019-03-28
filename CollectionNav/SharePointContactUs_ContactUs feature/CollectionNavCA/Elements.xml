@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
-  <CustomAction
-    ScriptSrc="~SiteCollection/Style Library/FabricUICollectionNav/js/csp_CollectionMenu.js"
-    Location="ScriptLink"
-    Sequence="0">
-  </CustomAction>
-</Elements>
