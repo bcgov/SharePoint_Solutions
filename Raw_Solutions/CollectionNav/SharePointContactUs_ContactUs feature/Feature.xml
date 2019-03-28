@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="This Feature Create a collection nav menu for the current collections GUI" Id="a9bac7e1-6b49-4a5f-81cd-ed1e0352ff83" ImageUrl="GenericFeature.gif?breadcrumb.png" Scope="Site" Title="Collection Navigation Menu">
+  <ElementManifests>
+    <ElementManifest Location="CollectionNavCA\Elements.xml" />
+    <ElementManifest Location="Style Library\Elements.xml" />
+    <ElementFile Location="Style Library\FabricUICollectionNav\js\csp_CollectionMenu.js" />
+    <ElementFile Location="Style Library\FabricUICollectionNav\css\csp_CollectionMenu.css" />   
+  </ElementManifests>
+</Feature>

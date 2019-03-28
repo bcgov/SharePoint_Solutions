@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="StyleLibraryCSS" Url="Style Library/FabricUIContactUs/css" RootWebOnly="FALSE" Path="Style Library\FabricUIContactUs\css">
+    <File Url="csp_ContactUs.css" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE"  />
+  </Module>
+  <Module Name="StyleLibraryJS" Url="Style Library/FabricUIContactUs/js" RootWebOnly="FALSE" Path="Style Library\FabricUIContactUs\js">
+    <File Url="csp_ContactUs.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE"  />
+  </Module> 
+</Elements>
