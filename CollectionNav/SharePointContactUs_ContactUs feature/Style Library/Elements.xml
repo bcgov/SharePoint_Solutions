@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
-  <Module Name="StyleLibraryCSS" Url="Style Library/FabricUICollectionNav/css" RootWebOnly="FALSE" Path="Style Library\FabricUICollectionNav\css">
-    <File Url="csp_CollectionMenu.css" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE"  />
-  </Module>
-  <Module Name="StyleLibraryJS" Url="Style Library/FabricUICollectionNav/js" RootWebOnly="FALSE" Path="Style Library\FabricUICollectionNav\js">
-    <File Url="csp_CollectionMenu.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE"  />
-  </Module> 
-</Elements>
