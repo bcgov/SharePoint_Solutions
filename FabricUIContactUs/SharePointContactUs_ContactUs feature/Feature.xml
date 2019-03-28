@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="This Feature Adds A contact us button at the top of the 365 banner.  The contact us button looks up the owner for the location for which the button is pressed." Id="8ed0fd1b-81e2-4ffa-8baa-3ae3df10bad3" ImageUrl="GenericFeature.gif?breadcrumb.png" Scope="Site" Title="SharePoint Contact Us">
-  <ElementManifests>
-    <ElementManifest Location="ContactUsCA\Elements.xml" />
-    <ElementManifest Location="Style Library\Elements.xml" />
-    <ElementFile Location="Style Library\FabricUIContactUs\js\csp_ContactUs.js" />
-    <ElementFile Location="Style Library\FabricUIContactUs\css\csp_ContactUs.css" />   
-  </ElementManifests>
-</Feature>
